@@ -2,7 +2,7 @@
 
 ![Astar_progress_animation](https://user-images.githubusercontent.com/33559521/230699253-ab25da94-4f26-4a75-a134-e8e963be3609.gif)
 
-This is a simple A* pathfinder created in C#. I optimised it using a priority queue from my <a href="https://github.com/PixelSir/PriorityQueue">Priority Queue Repo</a>. I have not added threading support as this is merely a demonstration of the algorithm. Ideally to use this in any serious capacity for many pathfinding agents you will want to use threads.
+This is a simple A* pathfinder created in C#. I optimised it using a priority queue from my <a href="https://github.com/DaveTheCelt/PriorityQueue">Priority Queue Repo</a>. I have not added threading support as this is merely a demonstration of the algorithm. Ideally to use this in any serious capacity for many pathfinding agents you will want to use threads.
 
 # Preview
 
